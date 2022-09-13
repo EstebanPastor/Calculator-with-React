@@ -1,0 +1,26 @@
+.App {
+  height: 100vh;
+  padding-top: 10px;
+  background-color: #4e4e51;
+  font-family: Lato, sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.calculator-container {
+  width: 400px;
+  height: 600px;
+  padding: 14px;
+  background-color: #868a8f;
+  border-radius: 20px;
+  border: 5px solid rgb(0, 0, 0);
+}
+
+.rows {
+  margin: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
